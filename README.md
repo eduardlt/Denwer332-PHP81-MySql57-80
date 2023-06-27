@@ -18,4 +18,4 @@ _Не официальная сборка Denwer 3.32_
 
 _Для переключения версии MySQL необходимо изменять путь к папке в файле_ \denwer\CONFIGURATION.txt
 
-![Denwer](https://github.com/eduardlt/Denwer332-PHP81-MySql57-80/assets/53251994/e21871e5-95c7-44a4-ba5d-9b06fc26eee6)
+![Denwer](https://github.com/eduardlt/Denwer332-PHP81-MySql57-80/assets/53251994/bdb82ef0-ceac-4e1f-8b98-4c01677662ae)
