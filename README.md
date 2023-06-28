@@ -1,4 +1,4 @@
-# Denwer332-PHP81-MySql57-80# Denwer 3.32 PHP 8.1.6 MySql 5.7 MySql 8.033
+# Denwer 3.32 PHP 8.1.6 MySql 5.7 MySql 8.033
 ---
 _Не официальная сборка Denwer 3.32_
 
