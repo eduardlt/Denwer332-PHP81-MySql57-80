@@ -1,8 +1,8 @@
 # Denwer 3.32 PHP 8.1.6 MySql 5.7 MySql 8.033
 ---
-## _Неофициальная сборка Denwer_
+## <img src="https://github.com/eduardlt/Denwer332-PHP81-MySql57-80/blob/main/assets/Denwer.png"  width = 260 height = 200> _Неофициальная сборка Denwer_
 
-## Состав:
+### Состав:
 
 * Denwer 3.32
 
@@ -17,7 +17,4 @@
 * MySQL 8.033
 
 _Для переключения версии MySQL необходимо изменять путь к папке в файле_ \denwer\CONFIGURATION.txt
-<div>
-  <img src="https://github.com/eduardlt/Denwer332-PHP81-MySql57-80/blob/main/assets/Denwer.png"  width = 260 height = 200>
-</div>
 
